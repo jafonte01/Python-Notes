@@ -1,7 +1,6 @@
 # Python Notes
 
-
-Introductory Python Notes - personalized from the Bootcamp "Thinkful" curriculum
+Introductory Python Notes - personalized from the Bootcamp "Thinkful" curriculum.
 
 Covers the following (in quasi-learning order): 
 
@@ -22,8 +21,6 @@ Other Notes:
 - Final misc. notes; focus on career preparation; Data Science technical questions resources (***NOTES - Overall Review and Career Preparation***)
 - Statistics Notes (incomplete) (***Formal Statistics Notes***)
 - Miscellaneous Computer Science Notes (incomplete) (***Computer Science Notes and Jupyter Errors***)
-
-and much more!
 
 **Note:** All others are miscellaneous scrap notes and do not serve a purpose.
 
